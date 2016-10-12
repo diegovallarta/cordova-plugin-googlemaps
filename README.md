@@ -1,3 +1,5 @@
+Freezed version of 12/10/2016
+
 Cordova GoogleMaps plugin for iOS and Android
 ==========================
 This plugin is a thin wrapper for [Google Maps Android SDK v2](https://developers.google.com/maps/documentation/android/) and [Google Maps SDK for iOS](https://developers.google.com/maps/documentation/ios/).
